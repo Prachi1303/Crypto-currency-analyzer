@@ -18,6 +18,7 @@ seaborn library
 matplotlib library
 
 #Usage
+
 Clone the repository or download the script to your local machine.
 
 Open the script in a Python editor or IDE.
@@ -33,6 +34,7 @@ The script will retrieve the data, calculate investment returns, potential profi
 The results will be displayed in the console and separate windows for each visualization.
 
 #Example
+
 Here's an example of how to use the script:
 
 Enter the list of cryptocurrencies to analyze: BTC-USD,ETH-USD,LTC-USD
@@ -48,4 +50,5 @@ It will create visualizations such as line plots, pie charts, heatmaps, histogra
 The results will be displayed in the console and separate windows for each visualization.
 
 #Disclaimer
+
 This script is for educational and informational purposes only. Cryptocurrency investments carry risks, and the results obtained from this script should not be considered financial advice. Always do your own research and consult with a professional before making any investment decisions.
