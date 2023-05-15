@@ -4,11 +4,17 @@ It retrieves historical price data, calculates investment returns, potential pro
 
 #Prerequisites
 To run this script, you need to have the following installed:
+
 Python 3
+
 yfinance library
+
 pandas library
+
 numpy library
+
 seaborn library
+
 matplotlib library
 
 #Usage
